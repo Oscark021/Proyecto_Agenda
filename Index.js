@@ -20,4 +20,5 @@ async function start (){
     server.listen(3000)
 }
 
+//Mandamos llamar la funcion de inicio
 start()
